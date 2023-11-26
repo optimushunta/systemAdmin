@@ -1,7 +1,7 @@
 # systemAdmin
 All things about sytem administration
 
-
+Read about the Disclaimer before you continue!!!
 =============================================================================================
 
 First Script: restrict_access.bat
