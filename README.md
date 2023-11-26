@@ -29,7 +29,6 @@ Here's a brief description of each part of the script:
         Note: Ensure that you have the necessary permissions to change folder permissions and that you understand the implications of restricting access to a folder before applying this script.
 
 
-Secodn Script: 
+Secodn Script: modify_permissions.bat
 
-modify_permissions.bat
 Grants full control (F) to the Administrators group for the specified folder and its contents ((OI)(CI) flags ensure inheritance).
